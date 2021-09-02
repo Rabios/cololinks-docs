@@ -75,6 +75,11 @@
 1. https://codeshack.io/images-sprite-sheet-generator
 2. https://www.codeandweb.com/free-sprite-sheet-packer
 
+** Utilities:
+
+1. https://imagecolorpicker.com
+2. https://coolors.co
+3. https://colorhunt.co
 
 =========================== Licenses ===========================
 
