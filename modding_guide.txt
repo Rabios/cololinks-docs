@@ -1,0 +1,98 @@
+========================== COLOLINKS! - MODDING ===========================
+
+COLOLINKS! on desktop platforms (Windows, OSX, Linux, Raspberry Pi) allows to mod
+the game via JSON and some bunch of stuff, Adding a lot of fun to the game...
+
+> NOTE: Due to security reasons modding not available on Mobile and Web, Sorry :(
+
+
+
+
+
+======================= COLOLINKS! - CUSTOM PALETTES ======================
+
+In order to add custom palettes a JSON file named "custom_palettes.json" must be created beside the game's executable...
+
+The JSON file contains Array of palettes as Objects, Here is example of custom palette JSON file:
+(Without the dashes...)
+
+------------------------------------------------------
+[
+  {
+    "name": "Nightcoffee",
+    "author": "Rabia Alhaffar",
+    "colors": [
+      { "r": 254, "g": 255, "b": 191, "a": 255 },
+      { "r": 252, "g": 220, "b": 223, "a": 255 },
+      { "r": 244, "g": 152, "b": 194, "a": 255 },
+      { "r": 201, "g": 151, "b": 198, "a": 255 },
+      { "r": 176, "g": 239, "b": 239, "a": 255 },
+      { "r": 131, "g": 217, "b": 220, "a": 255 },
+      { "r": 0,   "g": 0,   "b": 0,   "a": 0   }
+    ]
+  }
+]
+------------------------------------------------------
+
+> P.S: You can add more palettes as Objects...
+
+Each palette Object MUST contain "name" and "author" and "colors" in the palette Object...
+
+The colors stored in "colors" Array where the first 6 are colors for 4 Normal Marbles plus the 2 for Special Marbles,
+The last color left for Marbles that are about to be removed (You can give it a blank color who cares? :P)
+
+
+
+
+
+========================= COLOLINKS! - CUSTOM THEMES =======================
+
+
+############ SETUP ############
+
+In order to add custom themes a folder named "custom_themes" containing "themes.txt" must be created beside the game's executable...
+
+In "themes.txt" which is in "custom_themes" you add custom themes folder names to the text file, When adding more split each name with new line so keep each name on each line...
+
+For instance if we have in "themes.txt" the following:
+(Without the dashes...)
+
+------------------------------------------------------
+theme1
+------------------------------------------------------
+
+That means now we should create folder beside "themes.txt" named "theme1" and that folder contains "metadata.json" which can be like this:
+(Without the dashes...)
+
+------------------------------------------------------
+{
+  "name": "PlayStation",
+  "author": "Rabia Alhaffar",
+  "img": "playstation.png",
+  "idx": [ 0, 1, 2, 3, 4, 4, 0 ]
+}
+------------------------------------------------------
+
+Each theme's metadata MUST contain "name" and "author" and "img" and "idx"
+
+Note that custom theme's image path starts from theme's folder path,
+In the metadata above the image "playstation.png" must be beside the metadata...
+
+The "idx" here represents frames order of the theme's image (Which is a Spritesheet) starting from 0 to [<number_of_spritesheet_frames> - 1],
+With that you order the spritesheet frames for the 4 Normal Marbles and 2 Special Marbles, And it's fine to have 5 images and assign last frame (4) to the 2 Special Marbles! ^_^
+
+> P.S: The last one as i mentioned above in the custom palettes is for Marbles that are about to be removed, Leave it 0 to use first frame...
+
+
+############ IMAGE ############
+
+The theme image should be a spritesheet that consists of 5 or 6 images at least in size of 128x128 and no padding between each frame...
+
+So in that case your spritesheet dimensions should be [<number_of_frames> * 128]x128
+
+Each spritesheet frame should be in white and you can draw the theme's patterns on using transparent/blank color, Make sure also that background is transparent/blank color...
+
+
+
+
+

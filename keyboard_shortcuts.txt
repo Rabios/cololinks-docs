@@ -1,0 +1,107 @@
+## SPLASHSCREEN
+
+ESCAPE      => Closes the game.
+
+
+## MAIN MENU
+
+ESCAPE      => Closes the game.
+ENTER/SPACE => Play!
+K           => Sync
+O           => Options
+L           => Leaderboards
+S           => Stats
+A           => Achievements
+G           => Guide (How to Play?)
+T           => Themes
+
+
+## GAME
+
+ESCAPE/P    => Pause
+
+
+## LOSE
+
+ENTER/SPACE => Next
+
+
+## NEW ACHIEVEMENTS
+
+ENTER/SPACE => Next
+
+
+## LEADERBOARDS
+
+Left/Right  => Navigation through list of scores, If scores in Leaderboards are more than 10
+ESCAPE      => Back to Main Menu
+
+
+## PAUSE
+
+R                     => Restarts the game
+H                     => Back to Main Menu
+O                     => Options
+Q                     => Closes the game
+ESCAPE/ENTER/SPACE    => Resume
+
+
+## OPTIONS
+
+ESCAPE    => Back to Main Menu or back to the game in case it's paused
+C         => Credits
+F         => Toggle/Untoggle Fullscreen
+S         => Enable/Disable sounds
+M         => Enable/Disable music
+E         => Enable/Disable effects
+U         => Set Username
+
+> NOTICE: Clear Data has no shortcut since this leads to game data deletion accidentally...
+
+
+## THEMES
+
+Left/Right  => Navigation through themes to select
+ESCAPE      => Back to Main Menu
+SPACE       => Switch to Palettes Menu
+TAB         => Only for Desktops, Switch themes mode (To use custom themes or use standard themes instead)
+
+
+## PALETTES
+
+Left/Right  => Navigation through palettes to select
+ESCAPE      => Back to Main Menu
+SPACE       => Switch to Themes Menu
+TAB         => Only for Desktops, Switch palettes mode (To use custom palettes or use standard palettes instead)
+
+
+## GUIDE
+
+Left/Right  => Navigation through the tutorial
+ESCAPE      => Back to Main Menu
+
+
+## CREDITS
+
+ESCAPE      => Back to Options
+
+
+
+## ACHIEVEMENTS
+
+Up/Down     => Navigation through list of Achievements
+ESCAPE      => Back to Main Menu
+
+
+## STATS
+
+ENTER/SPACE/ESCAPE => Back to Main Menu
+
+
+## INPUT NAME
+
+Left/Right    => Navigation through chars
+TAB           => Show/Hide Keyboard
+ESCAPE        => Back
+
+> NOTE: Other keys designed to function with the text input (Typing, Clearing with BACKSPACE, etc...)

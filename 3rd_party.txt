@@ -1,0 +1,87 @@
+============================= Notices ============================
+
+1. The stuff which not mentioned in this file belongs to the developer Rabia Alhaffar!
+2. Licenses links could be found at end of the file.
+
+
+============================= Images =============================
+
+1.  glow4.png               => https://opengameart.org/content/glow-circle
+2.  Coloured Circle         => https://freepikpsd.com/circulos-coloridos-em-png/1434247
+3.  Switch On               => https://www.iconsdb.com/white-icons/switch-4-icon.html
+4.  Switch Off              => https://www.iconsdb.com/white-icons/switch-3-icon.html
+5.  Options Icon            => https://icons-for-free.com/option+preferences+setting+icon+icon-1320086626671184435
+6.  Stats/Leaderboards Icon => https://commons.wikimedia.org/wiki/File:Icon_Stats_color.svg
+7.  Restart                 => https://www.iconsdb.com/white-icons/recurring-appointment-icon.html
+8.  Power Off Icon          => https://www.iconsdb.com/white-icons/power-icon.html
+9.  Home Icon               => https://www.iconsdb.com/white-icons/home-2-icon.html
+10. Filled Star             => https://www.iconsdb.com/white-icons/star-8-icon.html
+11. Outlined Star           => https://www.iconsdb.com/white-icons/outline-star-icon.html
+12. Question Icon           => https://www.iconsdb.com/white-icons/question-mark-2-icon.html
+13. Brush Icon              => https://www.iconsdb.com/white-icons/paint-brush-icon.html
+14. Stats Icon              => https://www.iconsdb.com/white-icons/statistics-icon.html
+15. Paint Bucket            => https://www.iconsdb.com/white-icons/text-bg-color-icon.html
+16. Sync Icon               => https://www.iconsdb.com/white-icons/loop-circular-icon.html
+17. PayPal Icon             => https://www.iconsdb.com/white-icons/paypal-icon.html
+
+
+============================= Fonts =============================
+
+1. JetBrains Mono           => https://www.jetbrains.com/lp/mono
+2. Confarreatio             => https://www.1001fonts.com/confarreatio-font.html
+
+
+============================= Sounds =============================
+
+1.  https://freesound.org/people/javapimp/sounds/439186
+2.  https://freesound.org/people/elmasmalo1/sounds/376968
+3.  https://freesound.org/people/Christopherderp/sounds/342200
+4.  https://freesound.org/people/KorgMS2000B/sounds/54406
+5.  https://freesound.org/people/Jofae/sounds/368651
+6.  https://freesound.org/people/V-ktor/sounds/435413
+7.  https://freesound.org/people/ProjectsU012/sounds/341695
+8.  https://freesound.org/people/MrOwn1/sounds/110314
+9.  https://freesound.org/people/uEffects/sounds/180974
+10. https://freesound.org/people/UberBosser/sounds/421582
+11. https://freesound.org/people/soneproject/sounds/346425
+12. https://freesound.org/people/THE_bizniss/sounds/39562
+13. https://freesound.org/people/original_sound/sounds/366102
+14. https://freesound.org/people/plasterbrain/sounds/242855
+15. https://freesound.org/people/edwardszakal/sounds/514160
+16. https://freesound.org/people/Erokia/sounds/337146
+
+
+============================ Helpers ============================
+
+** Press Kits
+
+1. https://itch.io/press-kit
+2. https://github.com/logos
+
+** Compression and Resizing:
+
+1. https://tinypng.com
+2. https://www.zamzar.com
+3. https://www.iloveimg.com
+
+** Conversion:
+
+1. http://otf2ttf.com
+2. https://cloudconvert.com
+3. https://cdkm.com
+
+** Spritesheet:
+
+1. https://codeshack.io/images-sprite-sheet-generator
+2. https://www.codeandweb.com/free-sprite-sheet-packer
+
+
+=========================== Licenses ===========================
+
+1. CC0           => https://creativecommons.org/publicdomain/zero/1.0/legalcode
+2. CC 3.0        => https://creativecommons.org/licenses/by/3.0/legalcode
+3. CC 3.0 BY-SA  => https://creativecommons.org/licenses/by-sa/3.0/legalcode
+4. MIT           => https://opensource.org/licenses/MIT
+5. SIL OFL 1.1   => https://opensource.org/licenses/OFL-1.1
+6. 1001Fonts FFC => https://www.1001fonts.com/licenses/ffc.html
+
