@@ -6,9 +6,6 @@ the game via JSON and some bunch of stuff, Adding a lot of fun to the game...
 > NOTE: Due to security reasons modding not available on Mobile and Web, Sorry :(
 
 
-
-
-
 ======================= COLOLINKS! - CUSTOM PALETTES ======================
 
 In order to add custom palettes a JSON file named "custom_palettes.json" must be created beside the game's executable...
@@ -40,9 +37,6 @@ Each palette Object MUST contain "name" and "author" and "colors" in the palette
 
 The colors stored in "colors" Array where the first 6 are colors for 4 Normal Marbles plus the 2 for Special Marbles,
 The last color left for Marbles that are about to be removed (You can give it a blank color who cares? :P)
-
-
-
 
 
 ========================= COLOLINKS! - CUSTOM THEMES =======================
@@ -91,8 +85,4 @@ The theme image should be a spritesheet that consists of 5 or 6 images at least 
 So in that case your spritesheet dimensions should be [<number_of_frames> * 128]x128
 
 Each spritesheet frame should be in white and you can draw the theme's patterns on using transparent/blank color, Make sure also that background is transparent/blank color...
-
-
-
-
 

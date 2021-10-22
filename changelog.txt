@@ -1,11 +1,17 @@
-============== v0.1.0 (September 2, 2021) ==============
+============== v0.1.3 (October 22, 2021) ==============
 
-Initial release of the game!
+Android Support + Tweaks
+
+> NOTE: To run the game on Android you need Android Oreo or Above...
+
+============== v0.1.2 (September 4, 2021) ==============
+
+Again, Leaderboards fix and removed testing scores!
 
 ============== v0.1.1 (September 3, 2021) ==============
 
 Leaderboards fix!
 
-============== v0.1.2 (September 4, 2021) ==============
+============== v0.1.0 (September 2, 2021) ==============
 
-Again, Leaderboards fix and removed testing scores!
+Initial release of the game!
