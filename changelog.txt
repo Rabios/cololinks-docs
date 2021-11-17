@@ -1,3 +1,7 @@
+============== v0.1.5 (November 17, 2021) ==============
+
+Fixed touch input for Google Pixel devices
+
 ============== v0.1.4 (October 23, 2021) ==============
 
 Fixed bug when sound gets played if yells shown and sound option disabled
